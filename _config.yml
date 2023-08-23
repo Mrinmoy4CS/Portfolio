@@ -1,6 +1,13 @@
-title: Minimal theme
+title: <p align="center"> Mrinmoy Thokdar </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+  <br>   
+  I'm currently working on various Data Science & Machine learning related problems to relate
+  my extensive domain knowledge with analytics to help create and add value to the my work.
+  <br>
+  </p>
